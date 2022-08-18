@@ -1,5 +1,5 @@
 # How to use the code?
-We have shared Chaskey's software-based masking source code, which can be traced by the tool ELMO. To facilitate running directly on Rainbow, we shared the complete script (chaskey.py). The running parameters can be customized.
+We have shared Chaskey's software-based masking source code, which can be traced by Rainbow. To facilitate running directly on Rainbow, we shared the complete script (chaskey.py). The running parameters can be customized.
 If you want to try other ARX algorithms, you can refer to the functions of AM, BM and conversion between AM and BM in chaskeyMasking.c.
 For the t-test, we used the tool - elmo . The use of elmo is a little complicated, but we have uploaded complete running scripts. The default address is in the FixedvsRandom folder in elmo. For details, please refer to the makefile we wrote. In addition, please read the usage of elmo in detail and adjust the necessary parameters.
 For the study of interactions between instruction pairs, we are working hard to analyze the interactions through ROSITA, and we have shared the current source code as well.
